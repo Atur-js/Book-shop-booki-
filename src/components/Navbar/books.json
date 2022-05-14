@@ -1,0 +1,175 @@
+[
+   {    "id" :  1,
+        "image" : "https://images-us.bookshop.org/ingram/9781638930143.jpg?height=500&v=v2-dff51b06b7ce0f1961591f1065ab7ab2",
+        "title": "The Butcher and the Wren",
+        "author": "Alaina Urquhart ",
+        "price": "24.84"
+   },
+   {    "id" :  2,
+        "image" : "https://images-us.bookshop.org/ingram/9780593321447.jpg?height=500&v=v2",
+        "title": "Sea of Tranquility",
+        "author": "Emily St John Mandel ",
+        "price": "23.00"
+   },
+   {
+        "id" :  3,
+        "image" : "https://images-us.bookshop.org/ingram/9781647820381.jpg?height=500&v=v2",
+        "title": "The Heart of Business",
+        "author": "Hubert Joly ",
+        "price": "27.60"
+   },
+   {
+        "id" :  4,
+        "image" : "https://images-us.bookshop.org/ingram/9780399592553.jpg?height=500&v=v2-86fcdb34a3c79194a05a6a5cb8079087",
+        "title": "Atlas of the Heart",
+        "author": "Brené Brown ",
+        "price": "27.60" 
+   },
+   {
+        "id" :  5,
+        "image" : "https://images-us.bookshop.org/ingram/9780593334836.jpg?height=500&v=v2-21a6fc9671116a3eb57e84af74c72f2f",
+        "title": "Book Lovers",
+        "author": "Emily Henry ",
+        "price": "15.64" 
+   },
+   {
+        "id" :  6,
+        "image" : "https://images-us.bookshop.org/ingram/9780593230572.jpg?height=500&v=v2",
+        "title": "The 1619 Project",
+        "author": "The New York Times Magazine",
+        "price": "38.00"
+   },
+   {
+        "id" :  7,
+        "image" : "https://images-us.bookshop.org/ingram/9781476716763.jpg?height=500&v=v2-8403a68974712ffcaffd9c30a45b611e",
+        "title": "The Candy House",
+        "author": "Jennifer Egan",
+        "price": "25.76" 
+   },
+   {
+        "id" :  8,
+        "image" : "https://images-us.bookshop.org/ingram/9781250854117.jpg?height=500&v=v2-94355e2646d4747908707b16df4512b5",
+        "title": "Nona the Ninth",
+        "author": "Tamsyn Muir",
+        "price": "26.67" 
+   },
+   {
+        "id" :  9,
+        "image" : "https://images-us.bookshop.org/ingram/9781984819789.jpg?height=500&v=v2-b85d875aa685ccb09ceb08449b493058",
+        "title": "Ten Steps to Nanette",
+        "author": "Hannah Gadsby ",
+        "price": "25.76"
+   },
+   {
+        "id" :  10,
+        "image" : "https://images-us.bookshop.org/ingram/9781949481747.jpg?height=500&v=v2-8463c71b515faf9f4685dc3f785f7c57",
+        "title": "The Quaking of America",
+        "author": "Resmaa Menakem ",
+        "price": "17.43" 
+   },
+   {
+        "id" :  11,
+        "image" : "https://images-us.bookshop.org/ingram/9780063037328.jpg?height=500&v=v2-ac6dfb8fb2a31f4c5dd006c5eb93467e",
+        "title": "Finding Me: A Memoir",
+        "author": "Viola Davis ",
+        "price":  "26.67"
+   },
+   {
+        "id" :  12,
+        "image" : "https://images-us.bookshop.org/ingram/9781620976814.jpg?height=500&v=v2-d3281049de45ebe3926ede30564d1ee9",
+        "title": "Allow Me to Retort",
+        "author": "Elie Mystal ",
+        "price":  "24.83"
+   },
+   {
+        "id" :  13,
+        "image" : "https://images-us.bookshop.org/ingram/9780063070875.jpg?height=500&v=v2-8f7e252388d19bfebececadd00000000",
+        "title": "The Memory Librarian",
+        "author": "Janelle Monáe ",
+        "price": "26.67"
+   },
+   {
+        "id" :  14,
+        "image" : "https://images-us.bookshop.org/ingram/9780525657743.jpg?height=500&v=v2",
+        "title": "Crying in H Mart: A Memoir",
+        "author": "Michelle Zauner",
+        "price": "24.79" 
+   },
+   {
+        "id" :  15,
+        "image" : "https://images-us.bookshop.org/ingram/9781501161933.jpg?height=500&v=v2-105cb55178e38f91f064e1e04c1edb5a",
+        "title": "The Seven Husbands of Evelyn Hugo",
+        "author": "Taylor Jenkins Reid ",
+        "price":  "15.64" 
+   },
+   {
+        "id" :  16,
+        "image" : "https://images-us.bookshop.org/ingram/9781982171056.jpg?height=500&v=v2-c077511c8a8e03f8695d152f76ecc426",
+        "title": "Fight Like Hell",
+        "author": "Kim Kelly ",
+        "price":  "25.76" 
+   },
+   {
+        "id" :  17,
+        "image" : "https://images-us.bookshop.org/ingram/9781250278272.jpg?height=500&v=v2-e1a2f685734c038ef649298b03ba8633",
+        "title": "Tanqueray",
+        "author": "Stephanie Johnson and Brandon Stanton ",
+        "price":  "24.99" 
+   },
+   {
+        "id" :  18,
+        "image" : "https://images-us.bookshop.org/ingram/9780393541212.jpg?height=500&v=v2",
+        "title": "The Wok: Recipes and Techniques",
+        "author": "J. Kenji López-Alt ",
+        "price":  "46.00" 
+   },
+   {
+        "id" :  19,
+        "image" : "https://images-us.bookshop.org/ingram/9780812984965.jpg?height=500&v=v2",
+        "title": "Just Mercy",
+        "author": " Bryan Stevenson ",
+        "price": "15.64" 
+   },
+   {
+        "id" :  20,
+        "image" : "https://images-us.bookshop.org/ingram/9780593232514.jpg?height=500&v=v2-00f4bb35d1b4e40809d7baf3b80a90c6",
+        "title": "I Dream of Dinner",
+        "author": " Ali Slagle ",
+        "price": "27.59" 
+   },
+   {
+        "id" :  21,
+        "image" : "https://images-us.bookshop.org/ingram/9780743477109.jpg?height=500&v=v2",
+        "title": "Macbeth",
+        "author": "William Shakespeare ",
+        "price":  "6.43" 
+   },
+   {
+        "id" :  22,
+        "image" : "https://images-us.bookshop.org/ingram/9781549304002.jpg?height=500&v=v2",
+        "title": "Gender Queer: A Memoir",
+        "author": "Maia Kobabe ",
+        "price": "18.39" 
+   },
+   {
+        "id" :  23,
+        "image" : "https://images-us.bookshop.org/ingram/9780525562023.jpg?height=500&v=v2",
+        "title": "On Earth We're Briefly Gorgeous",
+        "author": "Ocean Vuong ",
+        "price": "23.92" 
+   },
+   {
+        "id" :  24,
+        "image" : "https://images-us.bookshop.org/ingram/9780593184738.jpg?height=500&v=v2-bc50b769cc327df32b598275cb0d285d",
+        "title": "Portrait of a Thief",
+        "author": " Grace D. Li ",
+        "price": "23.92"
+   },
+   {
+        "id" :  25,
+        "image" : "https://images-us.bookshop.org/ingram/9780802159557.jpg?height=500&v=v2-f26d7cadbc26eb3fc43eaadd00000000",
+        "title": "Young Mungo",
+        "author": "Douglas Stuart ",
+        "price": "24.84" 
+   }
+]

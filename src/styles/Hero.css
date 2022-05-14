@@ -1,0 +1,13 @@
+ol.carousel-indicators li.active {
+  background: #6e2ff7;
+}
+
+ol.carousel-indicators li {
+  background: lightblue;
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  bottom: -20px;
+}
+
+
