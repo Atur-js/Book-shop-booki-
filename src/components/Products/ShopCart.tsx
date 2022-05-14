@@ -46,7 +46,7 @@ const ShopCart = () => {
 
       {state.itemsCounter === 0 && !state.checkout && (
         <div className={styles.afterShop}>
-        <div className={styles.complete}>
+        <div className={styles.complete} style={{marginTop:"40px"}}>
           
           <Link className={styles.completeButton} to="/">{t("BuyMore")}</Link>
         </div>
@@ -55,7 +55,7 @@ const ShopCart = () => {
 
       {state.checkout && (
         <div className={styles.afterShop}>
-        <div className={styles.complete}>
+        <div className={styles.complete}  style={{marginTop:"50px"}}>
           <h3 style={{color:"#004cff"}}>{t("CheckoutSuccess")}</h3>
           <Link className={styles.completeButton} to="/">{t("BuyMore")}</Link>
         </div>
